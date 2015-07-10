@@ -75,6 +75,10 @@ You can optionally include a filename for the compiled javascript (with the .js 
 python snavaSnompiler.py snfoo.sns foo.js
 ```
 
+*[Also this has basically zero error checking or anything fancy. Use at your own snperil (snail peril)]*
+
 Snappy snoding! 
 
 (snail happy coding)
+
+[@AndrewTheWhip](http://twitter.com/andrewthewhip)
